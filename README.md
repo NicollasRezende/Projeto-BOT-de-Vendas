@@ -37,6 +37,18 @@ O bot foi implementado utilizando princípios de DevOps, com integração contí
 
 ## Considerações Finais
 
+
+## ENTRE EM CONTATO:
+
+## Minhas Redes:
+
+<div> 
+  <a href="https://www.instagram.com/nickzera_061/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/99uKEmajse" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:nkzdevs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nicollas-pereira-562689283/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 O bot de vendas no WhatsApp é uma solução poderosa para aumentar vendas e melhorar o relacionamento com clientes de forma automatizada. Detalhes muito sensíveis foram omitidos propositalmente neste README para segurança.
 
 ## Licença
