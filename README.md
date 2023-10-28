@@ -1,53 +1,74 @@
-# Bot de Vendas WhatsApp
+# Chatbot WhatsApp Premium
 
-## Recursos
+## Revolucione o atendimento da sua empresa com nosso chatbot no WhatsApp!
 
- - Catálogo de produtos organizado por categorias
- - Adicionar e remover itens do carrinho
- - Finalizar compra com integração com gateways como PagSeguro e PayPal
- - Rastreamento do status dos pedidos em tempo real
- - Atendimento automatizado 24/7
+•	Automatize conversas e tire dúvidas frequentes dos clientes 24/7
 
-## Tecnologias
+•	Aumente vendas com campanhas segmentadas no WhatsApp
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="nk-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="nk-sqlalchemy" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg">
-</div>
+•	Melhore a experiência do cliente com um atendimento rápido e eficiente
 
-- Python
-- SQL-Alchemy
-- biblioteca para Bots desenvolvida internamente
-- bibliotecas de integraçao de API PagSeguro
+## Principais Benefícios:
 
-## Arquitetura
-O sistema é dividido em backend e frontend. O backend em Python/Flask faz a integração com o WhatsApp e banco de dados. O frontend consiste em um painel administrativo web para gerenciamento.
+•	Redução de custos - chatbots automatizam tarefas simples sem a necessidade de contratar mais pessoas
 
-## Experiência do Usuário
-O usuário interage com o bot via WhatsApp de forma intuitiva através de um menu. Ele pode navegar no catálogo, adicionar itens ao carrinho, consultar pedidos e obter suporte. O checkout é totalmente integrado e transparente.
+•	Aumento nas vendas - promoções e campanhas direcionadas geram mais negócios
 
-## Implementação
-O bot foi implementado utilizando princípios de DevOps, com integração contínua, testes automatizados e deploy contínuo para garantir qualidade e agilidade.
+•	Satisfação do cliente - respostas rápidas e automatizadas melhoram a experiência do usuário
 
-## Resultados
+•	Escalabilidade - chatbots atendem centenas de clientes simultaneamente
 
-  - Redução de 80% no tempo de resposta ao cliente
-  - Aumento de 65% na taxa de conversão
-  - Maior conveniência e satisfação do cliente
+•	Funciona 24/7 - atendimento ininterrupto, sem folgas ou feriados
 
-## Considerações Finais
+## Funcionalidades:
+•	Respostas automatizadas por palavras-chave
 
-O bot de vendas no WhatsApp é uma solução poderosa para aumentar vendas e melhorar o relacionamento com clientes de forma automatizada. Detalhes muito sensíveis foram omitidos propositalmente neste README para segurança.
+•	Menu interativo para direcionar o cliente
 
-## Licença
-### Código proprietário sob licença privada.
+•	Integração com sistemas internos da empresa
 
+•	Coleta de dados do cliente para segmentação
 
-## ENTRE EM CONTATO:
+•	Envio de mensagens, links, contatos e muito mais!
 
-<div> 
-  <a href="https://www.instagram.com/nickzera_061/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/99uKEmajse" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:nkzdevs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nicollas-pereira-562689283/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+## Não perca mais clientes por demora no atendimento. Tenha seu próprio chatbot e transforme o seu negócio!
+
+# Parte tecnica
+
+## O projeto consiste em um chatbot para WhatsApp desenvolvido em Python com as seguintes tecnologias:
+
+•	Flask - framework web Python para construir a API
+
+•	WhatsApp Business API - API oficial do WhatsApp para envio de mensagens
+
+•	Python - linguagem de programação para o back-end
+
+•	JSON - formato de dados para comunicação com a API do WhatsApp
+
+A aplicação é composta por:
+
+•	App Flask com rotas para receber e responder mensagens
+
+•	Lógica para processar mensagens recebidas
+
+•	Funções para enviar diferentes tipos de mensagens
+
+•	Integração completa com a API do WhatsApp
+
+•	Sistema de menus utilizando botões e listas interativas
+
+•	Persistência de dados e logs
+
+## O fluxo do bot é:
+
+1.	Receber mensagem do webhook do WhatsApp
+  
+2.	Processar mensagem e identificar intenção
+   
+3.	Consultar regras de negócio e lógica
+   
+4.	Formatar e enviar resposta adequada
+   
+5.	Salvar logs
+   
+O chatbot tem conversas automatizadas com menu, navegação e capacidade de resposta. Ideal para uso em atendimento 24h e promoção de produtos.
